@@ -1,11 +1,11 @@
 # Site settings
 title: Reissaavedra's Blog
 email: reisson.saavedra.miguel@gmail.com
-description: "Musings of a Computer Scientist."
+description: ""
 baseurl: ""
-url: "http://reissavedra.github.io"
+url: "http://reissaavedra.github.io"
 twitter_username: SaavedraReisson
-github_username:  reissavedra
+github_username:  reissaavedra
 
 # Build settings
 markdown: kramdown
